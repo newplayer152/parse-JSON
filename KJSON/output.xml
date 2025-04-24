@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF - 8"?> 
+<root>
+  <cityInfo>
+    <city>天津市<city/>
+    <cityId>101030100<cityId/>
+    <parent>天津<parent/>
+    <updateTime>12:32<updateTime/>
+  <cityInfo/>
+  <data>
+    <forecast>
+      <aqi>55<aqi/>
+      <date>22<date/>
+      <fl>4-5级<fl/>
+      <fx>西北风<fx/>
+      <high>高温 26.0℃<high/>
+      <low>低温 15.0℃<low/>
+      <notice>愿你拥有比阳光明媚的心情<notice/>
+      <sunrise>05:57<sunrise/>
+      <sunset>18:10<sunset/>
+      <type>晴<type/>
+      <week>星期六<week/>
+      <ymd>2018-09-22<ymd/>
+    <forecast/>
+    <forecast>
+      <aqi>29<aqi/>
+      <date>23<date/>
+      <fl>4-5级<fl/>
+      <fx>西北风<fx/>
+      <high>高温 23.0℃<high/>
+      <low>低温 14.0℃<low/>
+      <notice>愿你拥有比阳光明媚的心情<notice/>
+      <sunrise>05:58<sunrise/>
+      <sunset>18:09<sunset/>
+      <type>晴<type/>
+      <week>星期日<week/>
+      <ymd>2018-09-22<ymd/>
+    <forecast/>
+    <forecast>
+      <aqi>25<aqi/>
+      <date>24<date/>
+      <fl><3级<fl/>
+      <fx>西北风<fx/>
+      <high>高温 24.0℃<high/>
+      <low>低温 15.0℃<low/>
+      <notice>愿你拥有比阳光明媚的心情<notice/>
+      <sunrise>05:59<sunrise/>
+      <sunset>18:07<sunset/>
+      <type>晴<type/>
+      <week>星期一<week/>
+      <ymd>2018-09-22<ymd/>
+    <forecast/>
+    <forecast>
+      <aqi>56<aqi/>
+      <date>25<date/>
+      <fl><3级<fl/>
+      <fx>西南风<fx/>
+      <high>高温 24.0℃<high/>
+      <low>低温 16.0℃<low/>
+      <notice>愿你拥有比阳光明媚的心情<notice/>
+      <sunrise>06:00<sunrise/>
+      <sunset>18:05<sunset/>
+      <type>晴<type/>
+      <week>星期二<week/>
+      <ymd>2018-09-22<ymd/>
+    <forecast/>
+    <forecast>
+      <aqi>86<aqi/>
+      <date>26<date/>
+      <fl>3-4级<fl/>
+      <fx>西南风<fx/>
+      <high>高温 24.0℃<high/>
+      <low>低温 17.0℃<low/>
+      <notice>不要被阴云遮挡住好心情<notice/>
+      <sunrise>06:01<sunrise/>
+      <sunset>18:04<sunset/>
+      <type>阴<type/>
+      <week>星期三<week/>
+      <ymd>2018-09-22<ymd/>
+    <forecast/>
+    <ganmao>各类人群可自由活动<ganmao/>
+    <pm10>46<pm10/>
+    <pm25>15<pm25/>
+    <quality>优<quality/>
+    <shidu>22%<shidu/>
+    <wendu>24<wendu/>
+    <yesterday>
+      <aqi>108<aqi/>
+      <date>21<date/>
+      <fl>4-5级<fl/>
+      <fx>西北风<fx/>
+      <high>高温 25.0℃<high/>
+      <low>低温 15.0℃<low/>
+      <notice>愿你拥有比阳光明媚的心情<notice/>
+      <sunrise>05:56<sunrise/>
+      <sunset>18:12<sunset/>
+      <type>晴<type/>
+      <week>星期五<week/>
+      <ymd>2018-09-21<ymd/>
+    <yesterday/>
+  <data/>
+  <date>20180922<date/>
+  <message>Success !<message/>
+  <status>200<status/>
+  <time>2018-09-22 12:37:21<time/>
+<root/>
